@@ -1,0 +1,1 @@
+different model component and feature combinations will generate seperate directory
